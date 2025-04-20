@@ -1,0 +1,21 @@
+Integração com o Projeto Base:
+• Façam o clone do projeto do Unity disponível no link abaixo, e então façam a integração com o ambiente de projeto criado neste material, este será a base para o Trabalho sobre Teste de Software
+    ✓ https://github.com/iacanaw/Unity
+
+• Deve-se adicionar ao repositório um dos três problemas clássicos que foi desenvolvido por vocês (vide slide 03 - Teste de Software).
+• Vocês devem fazer a integração das ferramentas cppcheck, valgrind e sanitizer no ambiente de projeto criado no item anterior, a fim de terem
+um ambiente completo
+
+Criação dos Testes:
+• Além da integração com as ferramentas, vocês devem criar um conjunto de testes com base nos:
+1. Caixa Preta - Testes Funcionais (Metodologia Sistemática) que junta as classes de equivalência com a análise do valor limite.
+2. Caixa Branca - Testes Estruturais baseado no grafo de controle de fluxo, onde vocês devem realizar testes que cubram todos os nodos e todas as arestas.
+
+Relatório de Verificação:
+• Ao final vocês devem entregar um relatório contendo o report da verificação proposta por vocês.
+1. Indique as classes de equivalência
+2. Indique os valores limites testados
+3. Indique o grafo de controle de fluxo
+• Nesse relatório, você também terá a oportunidade de relatar o funcionamento da integração contínua, demonstrando uma situação onde erros são encontrados e reportados pela ferramenta.
+
+Deadline: 23/04/2025 – 17:30
