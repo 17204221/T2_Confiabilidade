@@ -7,10 +7,10 @@ Ao executar o programa, será criado um arquivo chamado "resultado.txt", que pos
 Comandos
 -------
 
-* make: Compila o único fonte criado utilizando g++ e gera um executável chamado vigenere
-* make execute: Executa o programa compilado passando o arquivo cifrado (4221-0) e o arquivo de frequencia como parâmetros
-* make clean: Limpa o executável gerado e o arquivo com o texto descriptografado.
+* [**make**]: Compila o único fonte criado utilizando g++ e gera um executável chamado vigenere
+* [**make execute**]: Executa o programa compilado passando o arquivo cifrado (4221-0) e o arquivo de frequencia como parâmetros
+* [**make clean**]: Limpa o executável gerado e o arquivo com o texto descriptografado.
 
 Author
 ------
-[**Mateus Rosa**]
+**Mateus Rosa**
