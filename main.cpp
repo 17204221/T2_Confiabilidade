@@ -1,7 +1,7 @@
 #include <iostream>
 #include <fstream>
 #include <string>
-#include <cmath> //pow
+#include <cmath> 
 #include <limits>
 #include <sstream>
 
@@ -135,7 +135,7 @@ void calcularFrequenciaPorcentagem(string texto, double freq[TAM_ALFABETO]) {
 double calcularDistancia(double f1[TAM_ALFABETO], double f2[TAM_ALFABETO]) {
     double soma = 0;
     for (int i = 0; i < TAM_ALFABETO; i++) {
-        soma += pow(f1[i] - f2[i], 2); // distancia euclidiana
+        soma += pow(f1[i] - f2[i], 2); // 
     }
     return soma;
 }

@@ -11,6 +11,6 @@ Comandos
 * [**make execute**]: Executa o programa compilado passando o arquivo cifrado (4221-0) e o arquivo de frequencia como parâmetros
 * [**make clean**]: Limpa o executável gerado e o arquivo com o texto descriptografado.
 
-Author
+Autor
 ------
 **Mateus Rosa**

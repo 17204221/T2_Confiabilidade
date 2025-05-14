@@ -1,4 +1,3 @@
-
 COMPILADOR = g++
 
 TARGET = vigenere
